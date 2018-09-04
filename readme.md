@@ -1,6 +1,6 @@
-c3_ui
+C3 User Interface
 ===========
-Describe your app.
+User interface for the C3 APIs.
 
 For embedded apps:
 ------------------
