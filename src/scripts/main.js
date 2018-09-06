@@ -19,3 +19,6 @@ $(function () {
   }
   let container = $('#c3_ui_container');
 });
+
+
+console.log('this is a test')
